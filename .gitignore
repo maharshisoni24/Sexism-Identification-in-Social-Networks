@@ -36,3 +36,4 @@ venv/
 # Misc
 *.log
 nohup.out
+slides/
