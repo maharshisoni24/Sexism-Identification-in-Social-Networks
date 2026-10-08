@@ -1,0 +1,39 @@
+# exist2021-novelty — Project Dependencies
+# Compatible with Python 3.11+
+# Install:  pip install -r requirements.txt
+#
+# For GPU training (CUDA 12.6):
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+# For CPU-only (dev/test):
+#   pip install torch torchvision torchaudio
+
+# Core ML
+torch>=2.3.0
+pytorch-lightning>=2.3.0
+torchmetrics>=1.4.0
+
+# Data
+pandas>=2.0.0,<3.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+
+# Embeddings
+safetensors>=0.4.0
+
+# Gemini API (for generate_embeddings.py --backend gemini)
+google-generativeai>=0.8.0
+
+# Local embedding fallback (for generate_embeddings.py --backend local)
+sentence-transformers>=3.0.0
+
+# Evaluation
+PyEvALL>=1.0.0
+
+# Logging
+tensorboard>=2.16.0
+wandb>=0.17.0
+
+# Notebook analysis
+jupyter>=1.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0

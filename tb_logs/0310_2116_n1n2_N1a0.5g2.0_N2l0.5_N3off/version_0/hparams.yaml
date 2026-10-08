@@ -1,0 +1,12 @@
+model_name: gemini
+n_blocks: 2
+expansion_factor: 2
+dropout: 0.2
+lr: 0.0001
+weight_decay: 0.01
+warmup_ratio: 0.1
+soft_gating: false
+focal_alpha: 0.5
+focal_gamma: 2.0
+lambda_cons: 0.5
+eps_max: 0.0

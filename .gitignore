@@ -1,0 +1,38 @@
+# Secrets
+.env
+
+# Model checkpoints (1.6 GB)
+checkpoints/
+
+# Embedding files (large binaries, regenerate with generate_embeddings.py)
+data/checkpoint_train.json
+data/checkpoint_test.json
+data/embeddings_train.safetensors
+data/embeddings_test.safetensors
+data/embedding_log.txt
+data/embed.pid
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+myenv/
+venv/
+.env
+
+# Misc
+*.log
+nohup.out

@@ -1,0 +1,6284 @@
+[
+  {
+    "id": "000004",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0395380192976668e-15,
+      "NO": 0.999999999999999
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000048",
+    "value": {
+      "JUDGEMENTAL": 2.0050087834260406e-37,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000054",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000062",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000091",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000099",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.06954174488782883,
+      "NO": 0.9304582551121712
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000112",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0010005043586716056,
+      "NO": 0.9989994956413284
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000129",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.00024536947603337467,
+      "NO": 0.9997546305239666
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000161",
+    "value": {
+      "JUDGEMENTAL": 1.3082781329588236e-16,
+      "DIRECT": 0.4392662048339842,
+      "NO": 0.5607337951660156
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000174",
+    "value": {
+      "JUDGEMENTAL": 2.140755693961766e-43,
+      "DIRECT": 2.4133626954497833e-12,
+      "NO": 0.9999999999975866
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000179",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999986886978149,
+      "NO": 1.3113021850585938e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000188",
+    "value": {
+      "JUDGEMENTAL": 4.473779591749861e-38,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000216",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.6584175229072571,
+      "NO": 0.3415824770927429
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000218",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.3354596793651581,
+      "NO": 0.6645403206348419
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000223",
+    "value": {
+      "JUDGEMENTAL": 9.585731335575648e-62,
+      "DIRECT": 2.4112320818276068e-31,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000228",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999998807907104,
+      "NO": 1.1920928955078125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000234",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000243",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000244",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000247",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.7816730895752286e-30,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000249",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000276",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999998807907104,
+      "NO": 1.1920928955078125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000298",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.8537534856425887e-26,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000325",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000329",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999963045120239,
+      "NO": 3.6954879760742188e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000342",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.999997615814209,
+      "NO": 2.384185791015625e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000346",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.3521580584519092e-20,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000352",
+    "value": {
+      "JUDGEMENTAL": 1.9792594471397977e-32,
+      "DIRECT": 0.9999997615814209,
+      "NO": 2.384185791015625e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000355",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.052879807956103e-11,
+      "NO": 0.9999999999294712
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000359",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000380",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 9.854154449263851e-34,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000382",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999997615814209,
+      "NO": 2.384185791015625e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000390",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9961755275726318,
+      "NO": 0.003824472427368164
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000404",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.7535690605873242e-05,
+      "NO": 0.9999724643093941
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000413",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000426",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.205049430718645e-05,
+      "NO": 0.9999379495056928
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000437",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.11920291930437088,
+      "NO": 0.8807970806956291
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000457",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.380186509709349e-32,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000458",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.7799928784370422,
+      "NO": 0.22000712156295776
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000459",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000471",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000473",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000480",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000483",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000519",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.999868631362915,
+      "NO": 0.00013136863708496094
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000541",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999977350234985,
+      "NO": 2.2649765014648438e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000555",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.47857493089434e-24,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000566",
+    "value": {
+      "JUDGEMENTAL": 6.60577678652732e-38,
+      "DIRECT": 0.01640303246676922,
+      "NO": 0.9835969675332308
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000567",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000574",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000577",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 9.727604926320145e-29,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000584",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.5436656904062604e-13,
+      "NO": 0.9999999999997456
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000605",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000630",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9637799859046936,
+      "NO": 0.036220014095306396
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000640",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.835041751676208e-13,
+      "NO": 0.9999999999992165
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000643",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000644",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9763104915618896,
+      "NO": 0.02368950843811035
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000645",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 9.47935953891122e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000658",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000682",
+    "value": {
+      "JUDGEMENTAL": 1.1861120086109622e-08,
+      "DIRECT": 0.9999999881388799,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000692",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999798536300659,
+      "NO": 2.014636993408203e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000718",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 8.258073180356443e-14,
+      "NO": 0.9999999999999174
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000739",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000740",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.974311602001936e-21,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000744",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.906094994852858e-35,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000745",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000749",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000750",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.6246755378554462e-33,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000755",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000760",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000763",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000768",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999545812606812,
+      "NO": 4.5418739318847656e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000790",
+    "value": {
+      "JUDGEMENTAL": 3.4632274931427996e-35,
+      "DIRECT": 0.03514484688639641,
+      "NO": 0.9648551531136036
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000793",
+    "value": {
+      "JUDGEMENTAL": 6.054601485195952e-39,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000794",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999998807907104,
+      "NO": 1.1920928955078125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000823",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000841",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000844",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999910593032837,
+      "NO": 8.940696716308594e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000853",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999097585678101,
+      "NO": 9.02414321899414e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000864",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.8991213440895081,
+      "NO": 0.10087865591049194
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000887",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.3516648824487217e-23,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000895",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999485015869141,
+      "NO": 5.14984130859375e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000914",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000927",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999039173126221,
+      "NO": 9.608268737792969e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000939",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9980732202529907,
+      "NO": 0.0019267797470092773
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000951",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000965",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.9374819537218096e-30,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000971",
+    "value": {
+      "JUDGEMENTAL": 2.7134837887224153e-38,
+      "DIRECT": 0.9999997615814209,
+      "NO": 2.384185791015625e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000979",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000981",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "000993",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.179970757931434e-22,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001001",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001012",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.7816730895752286e-30,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001037",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.6755463557238345e-20,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001045",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001049",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9997040629386902,
+      "NO": 0.00029593706130981445
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001056",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.825602838489431e-08,
+      "NO": 0.9999999317439716
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001059",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001092",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001103",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001111",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9998313188552856,
+      "NO": 0.00016868114471435547
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001112",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.691163724146463e-08,
+      "NO": 0.9999999530883628
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001121",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.3195229636950566e-16,
+      "NO": 0.9999999999999998
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001128",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.4872613721194976e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001136",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.4101654887199402,
+      "NO": 0.5898345112800598
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001144",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.006780491108507e-18,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001154",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001157",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999772310256958,
+      "NO": 2.276897430419922e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001177",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001180",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001182",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.5087822123629115e-27,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001194",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001196",
+    "value": {
+      "JUDGEMENTAL": 1.644358521506874e-57,
+      "DIRECT": 1.080639291795678e-30,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001198",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999926090240479,
+      "NO": 7.3909759521484375e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001204",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.783247334519178e-11,
+      "NO": 0.9999999999821675
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001207",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001209",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.00024536947603337467,
+      "NO": 0.9997546305239666
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001217",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 9.727604926320145e-29,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001241",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.7082125544548035,
+      "NO": 0.29178744554519653
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001248",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.582560135332983e-10,
+      "NO": 0.999999999241744
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001300",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.882359301688505e-25,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001314",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0530617466355953e-20,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001326",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.999312162399292,
+      "NO": 0.0006878376007080078
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001339",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001347",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.1979305725162703e-07,
+      "NO": 0.9999998802069427
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001352",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.4624862419498405e-31,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001353",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001365",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.6288633942604065,
+      "NO": 0.3711366057395935
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001369",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001377",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.2827996872365475e-05,
+      "NO": 0.9999771720031276
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001398",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001434",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.023573462243803e-08,
+      "NO": 0.9999999397642654
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001436",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.3440409674103648e-08,
+      "NO": 0.9999999865595903
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001443",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001451",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9314625263214111,
+      "NO": 0.06853747367858887
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001470",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.8453348122070565e-08,
+      "NO": 0.9999999715466519
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001477",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001506",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001518",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999203681945801,
+      "NO": 7.963180541992188e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001526",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.6588861918718874e-15,
+      "NO": 0.9999999999999953
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001530",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001532",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9986749291419983,
+      "NO": 0.001325070858001709
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001539",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.8473686869998645e-11,
+      "NO": 0.9999999999515263
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001542",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001552",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001567",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.021948253735899925,
+      "NO": 0.9780517462641001
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001570",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001574",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001589",
+    "value": {
+      "JUDGEMENTAL": 4.41608401551004e-33,
+      "DIRECT": 0.9999452829360962,
+      "NO": 5.4717063903808594e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001599",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.466326177203882e-07,
+      "NO": 0.9999996533673823
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001611",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001621",
+    "value": {
+      "JUDGEMENTAL": 7.2812904542176e-33,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001623",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999992847442627,
+      "NO": 7.152557373046875e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001625",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.305116853596367e-16,
+      "NO": 0.9999999999999993
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001632",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.004609572235494852,
+      "NO": 0.9953904277645051
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001656",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.2827996872365475e-05,
+      "NO": 0.9999771720031276
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001657",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001693",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001703",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.8056321740150452,
+      "NO": 0.19436782598495483
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001768",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9273632764816284,
+      "NO": 0.07263672351837158
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001777",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9763104915618896,
+      "NO": 0.02368950843811035
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001781",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.9278620533877984e-07,
+      "NO": 0.9999996072137947
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001784",
+    "value": {
+      "JUDGEMENTAL": 5.034575578093164e-45,
+      "DIRECT": 1.2171739374952413e-18,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001785",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001788",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0012843080330640078,
+      "NO": 0.998715691966936
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001799",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.142647587206589e-24,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001815",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.3982678893096363e-09,
+      "NO": 0.9999999966017321
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001844",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001852",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.7816730895752286e-30,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001861",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.780892995206139e-25,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001864",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999966621398926,
+      "NO": 3.337860107421875e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001878",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9998766183853149,
+      "NO": 0.0001233816146850586
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001879",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9504110217094421,
+      "NO": 0.04958897829055786
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001881",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.0593340560688357e-28,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001882",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.2159490242756874e-08,
+      "NO": 0.9999999778405098
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001887",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.93115390377352e-05,
+      "NO": 0.9999706884609623
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001892",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001904",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001905",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001918",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001923",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001925",
+    "value": {
+      "JUDGEMENTAL": 2.9756967944000553e-35,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001947",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.1442217227304354e-05,
+      "NO": 0.9999485577827727
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001950",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.179970757931434e-22,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001960",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.026355354115366936,
+      "NO": 0.9736446458846331
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001972",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001975",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9005298018455505,
+      "NO": 0.09947019815444946
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "001985",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.018546564504504204,
+      "NO": 0.9814534354954958
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002005",
+    "value": {
+      "JUDGEMENTAL": 1.2139529157962233e-75,
+      "DIRECT": 6.054601485195952e-39,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002006",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999995231628418,
+      "NO": 4.76837158203125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002007",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0003920417802873999,
+      "NO": 0.9996079582197126
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002011",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9553191661834717,
+      "NO": 0.04468083381652832
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002012",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002031",
+    "value": {
+      "JUDGEMENTAL": 1.4239057351619672e-40,
+      "DIRECT": 1.4251640378466556e-21,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002038",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.139937814784389e-08,
+      "NO": 0.9999999586006219
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002042",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.001597845577634871,
+      "NO": 0.9984021544223651
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002054",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.28140562772750854,
+      "NO": 0.7185943722724915
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002081",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002101",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002104",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.2613309323787689,
+      "NO": 0.7386690676212311
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002107",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002127",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002130",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002132",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.751213938108886e-24,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002134",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002147",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002159",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999997615814209,
+      "NO": 2.384185791015625e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002161",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.984904044796711e-30,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002163",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002172",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.924395957158335e-26,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002191",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999898672103882,
+      "NO": 1.0132789611816406e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002230",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.1548223864099742e-17,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002232",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.200701923008052e-15,
+      "NO": 0.9999999999999978
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002244",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002253",
+    "value": {
+      "JUDGEMENTAL": 7.465376077510509e-62,
+      "DIRECT": 1.0121150495010262e-24,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002271",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.902311962316162e-06,
+      "NO": 0.9999970976880377
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002274",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999986886978149,
+      "NO": 1.3113021850585938e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002275",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.368750066736538e-07,
+      "NO": 0.9999994631249933
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002294",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0384661927819252,
+      "NO": 0.9615338072180748
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002298",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.095474414148981e-23,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002307",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 8.152020392060422e-09,
+      "NO": 0.9999999918479796
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002315",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002317",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.101936989542922e-13,
+      "NO": 0.9999999999993898
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002348",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9997219443321228,
+      "NO": 0.00027805566787719727
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002349",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9998977184295654,
+      "NO": 0.00010228157043457031
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002350",
+    "value": {
+      "JUDGEMENTAL": 1.2319199091228252e-42,
+      "DIRECT": 9.110768533474961e-23,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002351",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.7257827167327378e-08,
+      "NO": 0.9999999827421728
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002370",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.8529354929924011,
+      "NO": 0.14706450700759888
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002390",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9674102663993835,
+      "NO": 0.032589733600616455
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002399",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9950946569442749,
+      "NO": 0.004905343055725098
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002401",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002403",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002409",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002421",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.7690802216529846,
+      "NO": 0.23091977834701538
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002426",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.6588861918718874e-15,
+      "NO": 0.9999999999999953
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002431",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002435",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002456",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002466",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.20048176076932e-32,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002473",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.3363310694694519,
+      "NO": 0.6636689305305481
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002477",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.6586782945401946e-12,
+      "NO": 0.9999999999983413
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002501",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002514",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.691163724146463e-08,
+      "NO": 0.9999999530883628
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002532",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9984512329101562,
+      "NO": 0.00154876708984375
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002540",
+    "value": {
+      "JUDGEMENTAL": 1.3141646750106753e-67,
+      "DIRECT": 1.8048513285848406e-35,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002548",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.335593052293916e-09,
+      "NO": 0.999999997664407
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002559",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.8933094143867493,
+      "NO": 0.10669058561325073
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002575",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.5601998659736704e-12,
+      "NO": 0.9999999999934398
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002580",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002582",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.998960857425459e-09,
+      "NO": 0.9999999970010391
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002608",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002618",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.05995230942733e-20,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002620",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002629",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002644",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002664",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002666",
+    "value": {
+      "JUDGEMENTAL": 2.001470223142659e-75,
+      "DIRECT": 2.0050087834260406e-37,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002669",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.142647587206589e-24,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002687",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.508755348242577e-12,
+      "NO": 0.9999999999954913
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002694",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002707",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.824246554245779e-16,
+      "NO": 0.9999999999999997
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002712",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.3195229636950566e-16,
+      "NO": 0.9999999999999998
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002713",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.416325663883611e-33,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002720",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002723",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.0831634829566618e-22,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002744",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.573710259328287e-11,
+      "NO": 0.9999999999842629
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002753",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002762",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.005384938325732946,
+      "NO": 0.994615061674267
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002799",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.9278620533877984e-07,
+      "NO": 0.9999996072137947
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002806",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.0879678940140776e-14,
+      "NO": 0.9999999999999791
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002820",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.578585776920167e-29,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002823",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 9.23744991609965e-09,
+      "NO": 0.9999999907625501
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002824",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002831",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.24835413113866e-18,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002833",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002840",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002855",
+    "value": {
+      "JUDGEMENTAL": 4.47773234897538e-19,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002862",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002880",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.7185943722724915,
+      "NO": 0.28140562772750854
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002881",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002890",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.4508507812679454e-07,
+      "NO": 0.9999995549149219
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002893",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002905",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.359610133382778e-28,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002907",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002920",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.3846004549122881e-05,
+      "NO": 0.9999861539954509
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002936",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002942",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002962",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.7266393064783188e-06,
+      "NO": 0.9999962733606935
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002968",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002969",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 8.09592979254917e-16,
+      "NO": 0.9999999999999992
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002977",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.9756967944000553e-35,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002984",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "002995",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.8243198075800374e-24,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003002",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003008",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.806446255483361e-16,
+      "NO": 0.9999999999999998
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003020",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.502111953922614e-22,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003027",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.6584175229072571,
+      "NO": 0.3415824770927429
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003073",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.8587185740470886,
+      "NO": 0.14128142595291138
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003095",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003100",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.62611098224923e-14,
+      "NO": 0.9999999999999838
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003101",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9998313188552856,
+      "NO": 0.00016868114471435547
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003104",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.5445592403411865,
+      "NO": 0.4554407596588135
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003115",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.672301610145117e-39,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003120",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003131",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9998766183853149,
+      "NO": 0.0001233816146850586
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003132",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003137",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.139937814784389e-08,
+      "NO": 0.9999999586006219
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003138",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003180",
+    "value": {
+      "JUDGEMENTAL": 1.4611950013786594e-50,
+      "DIRECT": 1.1243582096820594e-26,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003181",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003188",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.359610133382778e-28,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003189",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.906094994852858e-35,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003192",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.781132279686624e-20,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003193",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.3110923260619705e-27,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003213",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.12940272688865662,
+      "NO": 0.8705972731113434
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003222",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.5946094231454886e-11,
+      "NO": 0.9999999999740539
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003227",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999998807907104,
+      "NO": 1.1920928955078125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003239",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999998807907104,
+      "NO": 1.1920928955078125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003240",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003245",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.862518609581133e-20,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003246",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9664104580879211,
+      "NO": 0.03358954191207886
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003253",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003264",
+    "value": {
+      "JUDGEMENTAL": 7.99195987166712e-11,
+      "DIRECT": 0.9999999999200804,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003270",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0006462032906711102,
+      "NO": 0.9993537967093289
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003272",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003276",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.4815121963806348e-36,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003301",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003303",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0012065897462889552,
+      "NO": 0.998793410253711
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003336",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0012843080330640078,
+      "NO": 0.998715691966936
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003342",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.8795288676126676e-12,
+      "NO": 0.9999999999981205
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003345",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0395380192976668e-15,
+      "NO": 0.999999999999999
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003361",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.16451646387577057,
+      "NO": 0.8354835361242294
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003365",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003367",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003371",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9998766183853149,
+      "NO": 0.0001233816146850586
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003380",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.8187368512153625,
+      "NO": 0.18126314878463745
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003382",
+    "value": {
+      "JUDGEMENTAL": 4.776672053191114e-44,
+      "DIRECT": 1.9792599190273585e-32,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003392",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003418",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003424",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003426",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003436",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.2812904542176e-33,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003437",
+    "value": {
+      "JUDGEMENTAL": 3.975449484028966e-31,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003441",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.899758024283813e-25,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003444",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999741315841675,
+      "NO": 2.586841583251953e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003446",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.3982678893096363e-09,
+      "NO": 0.9999999966017321
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003452",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.19072403013706207,
+      "NO": 0.8092759698629379
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003462",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.031184213701636e-05,
+      "NO": 0.999929688157863
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003466",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.382532683308073e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003468",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003470",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9981324076652527,
+      "NO": 0.0018675923347473145
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003476",
+    "value": {
+      "JUDGEMENTAL": 8.186778811788568e-59,
+      "DIRECT": 3.7233630754801197e-25,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003501",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9099069833755493,
+      "NO": 0.09009301662445068
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003510",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003520",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9830850958824158,
+      "NO": 0.01691490411758423
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003527",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.8430893875347414e-30,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003566",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 9.422446396456508e-07,
+      "NO": 0.9999990577553604
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003571",
+    "value": {
+      "JUDGEMENTAL": 5.744446322033521e-38,
+      "DIRECT": 4.420228221532589e-14,
+      "NO": 0.9999999999999558
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003575",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.008774834778726e-14,
+      "NO": 0.9999999999999499
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003577",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.1811870232777437e-07,
+      "NO": 0.9999995818812977
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003617",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0006462032906711102,
+      "NO": 0.9993537967093289
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003618",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.672301610145117e-39,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003647",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.892514956125524e-05,
+      "NO": 0.9999810748504387
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003649",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.775134371775124e-11,
+      "NO": 0.9999999999622486
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003653",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.1099189632748045e-21,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003666",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003668",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003674",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.6251407780456905e-34,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003690",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003698",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003707",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003709",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.6283439801114165e-15,
+      "NO": 0.9999999999999963
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003712",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.22414481066258e-11,
+      "NO": 0.9999999999377586
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003721",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003725",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003739",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.014569145103451e-05,
+      "NO": 0.999979854308549
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003776",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.382532683308073e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003803",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999998807907104,
+      "NO": 1.1920928955078125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003812",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.1233784082141938e-06,
+      "NO": 0.9999978766215918
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003813",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.052618954330682755,
+      "NO": 0.9473810456693172
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003817",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003829",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.142647587206589e-24,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003835",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.023573462243803e-08,
+      "NO": 0.9999999397642654
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003853",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003861",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.10970577597618103,
+      "NO": 0.890294224023819
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003872",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.406102339591598e-06,
+      "NO": 0.9999975938976604
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003922",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9991440773010254,
+      "NO": 0.0008559226989746094
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003932",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0006070755771361291,
+      "NO": 0.9993929244228639
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003936",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003938",
+    "value": {
+      "JUDGEMENTAL": 2.4091035214360737e-50,
+      "DIRECT": 1.1099189632748045e-21,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003942",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.030726386134531e-17,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003954",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003958",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.5216534638255419e-27,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003962",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.24835413113866e-18,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "003987",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.1243582096820594e-26,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004014",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.0271680251257894e-36,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004020",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004024",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0006878511048853397,
+      "NO": 0.9993121488951147
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004032",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.493094675675266e-10,
+      "NO": 0.9999999998506905
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004034",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.5832143333807154e-23,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004039",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004043",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.561282371971174e-06,
+      "NO": 0.999997438717628
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004053",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.832564081880264e-05,
+      "NO": 0.9999516743591812
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004069",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9835969805717468,
+      "NO": 0.016403019428253174
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004071",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.780892995206139e-25,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004097",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999995231628418,
+      "NO": 4.76837158203125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004098",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.376015287185925e-38,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004101",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004112",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004113",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004114",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.6113819479942322,
+      "NO": 0.3886180520057678
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004140",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004146",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004163",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004175",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.011687257327139378,
+      "NO": 0.9883127426728606
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004188",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9719924926757812,
+      "NO": 0.02800750732421875
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004194",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.3057005200372102e-37,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004204",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.6052279505629485e-09,
+      "NO": 0.999999998394772
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004213",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.1099189632748045e-21,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004215",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.8048513285848406e-35,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004246",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.01590639166533947,
+      "NO": 0.9840936083346605
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004249",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.1259227693080902,
+      "NO": 0.8740772306919098
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004251",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.7816730895752286e-30,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004253",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 8.307946555307813e-26,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004287",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004292",
+    "value": {
+      "JUDGEMENTAL": 5.521082273193096e-42,
+      "DIRECT": 7.281290448696518e-33,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004293",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0028009270317852497,
+      "NO": 0.9971990729682148
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004294",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9998511075973511,
+      "NO": 0.00014889240264892578
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004304",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.4166088302403068e-09,
+      "NO": 0.9999999985833912
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004305",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.1365636964910664e-06,
+      "NO": 0.9999988634363035
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004310",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.331544762286143e-11,
+      "NO": 0.9999999999666845
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004311",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004340",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.3336148713971936e-34,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004347",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0004442183708306402,
+      "NO": 0.9995557816291694
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004355",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004371",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.715882105195356e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004380",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004390",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 9.602679948093257e-24,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004410",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.7636447814293206e-05,
+      "NO": 0.9999623635521857
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004418",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004433",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.6246755378554462e-33,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004434",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004436",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.037892427295446396,
+      "NO": 0.9621075727045536
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004447",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.242885696424093e-22,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004450",
+    "value": {
+      "JUDGEMENTAL": 2.0032387495584023e-56,
+      "DIRECT": 2.678636997114156e-33,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004453",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999998807907104,
+      "NO": 1.1920928955078125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004478",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.60521473037079e-05,
+      "NO": 0.9999339478526963
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004484",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.639677673630215e-36,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004497",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004518",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.6251407780456905e-34,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004545",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.2664165777252073e-14,
+      "NO": 0.9999999999999873
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004564",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 8.201253435393186e-21,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004571",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.6029971241950989,
+      "NO": 0.3970028758049011
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004588",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004589",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004592",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9997219443321228,
+      "NO": 0.00027805566787719727
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004598",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004603",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.38714214669426e-21,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004606",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 8.533047630075754e-17,
+      "NO": 0.9999999999999999
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004613",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 8.939696272136644e-06,
+      "NO": 0.9999910603037279
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004617",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999998807907104,
+      "NO": 1.1920928955078125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004619",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.829946869888558e-21,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004631",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004639",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.999937891960144,
+      "NO": 6.210803985595703e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004654",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004675",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.4616969573898473e-10,
+      "NO": 0.9999999997538302
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004679",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004683",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.0328874530064004e-23,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004684",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.4872613721194976e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004686",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.819576955003273e-27,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004687",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.47023467943241e-26,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004691",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0008295892039313912,
+      "NO": 0.9991704107960686
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004702",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.0831634829566618e-22,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004705",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004708",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999977350234985,
+      "NO": 2.2649765014648438e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004726",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004749",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.99195987166712e-11,
+      "NO": 0.9999999999200804
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004762",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.859663724899292,
+      "NO": 0.140336275100708
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004765",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 9.47935953891122e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004768",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.138788360608947e-25,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004774",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.42221869181958e-06,
+      "NO": 0.9999945777813082
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004775",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.9039801803006726e-17,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004783",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004788",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999741315841675,
+      "NO": 2.586841583251953e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004798",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.1099189632748045e-21,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004800",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.999312162399292,
+      "NO": 0.0006878376007080078
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004803",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004805",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.3176514046531196e-10,
+      "NO": 0.9999999998682348
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004811",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.8824278712272644,
+      "NO": 0.1175721287727356
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004819",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 8.870426720351659e-32,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004823",
+    "value": {
+      "JUDGEMENTAL": 8.451379320095294e-21,
+      "DIRECT": 0.0012065897462889552,
+      "NO": 0.998793410253711
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004825",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0015011822106316686,
+      "NO": 0.9984988177893683
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004831",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.094697696541931e-35,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004835",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004844",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.473779591749861e-38,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004869",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.99195987166712e-11,
+      "NO": 0.9999999999200804
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004883",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.03676946461200714,
+      "NO": 0.9632305353879929
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004907",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004928",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004937",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.3164880709322313e-29,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004948",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.22414481066258e-11,
+      "NO": 0.9999999999377586
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004958",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.2603244360652752e-06,
+      "NO": 0.9999977396755639
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004972",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.914400150527522e-13,
+      "NO": 0.9999999999993086
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "004994",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005014",
+    "value": {
+      "JUDGEMENTAL": 1.5260644001735298e-33,
+      "DIRECT": 1.316335464492214e-29,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005035",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.004352014501e-18,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005036",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005047",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.7429786680622783e-07,
+      "NO": 0.9999998257021332
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005064",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.1151310700892382e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005072",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.04347383412096e-07,
+      "NO": 0.9999994956526166
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005073",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005080",
+    "value": {
+      "JUDGEMENTAL": 8.870248013453478e-32,
+      "DIRECT": 0.9999798536300659,
+      "NO": 2.014636993408203e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005100",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.3496984164751153e-21,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005102",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005103",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.169845886345186e-22,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005120",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.597850198457608e-28,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005147",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.454995164303957e-18,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005150",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.597850198457608e-28,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005157",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.473779591749861e-38,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005163",
+    "value": {
+      "JUDGEMENTAL": 5.039023752463768e-26,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005182",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.450178858059343e-37,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005191",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005202",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.734421103577915e-08,
+      "NO": 0.999999922655789
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005206",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0011335690505802631,
+      "NO": 0.9988664309494197
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005210",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005232",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.5544083878968715e-31,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005233",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.749522023787777e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005247",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005285",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.3823690753488336e-07,
+      "NO": 0.9999997617630925
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005290",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.382532683308073e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005296",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9407896995544434,
+      "NO": 0.05921030044555664
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005301",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.17781086266040802,
+      "NO": 0.822189137339592
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005303",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9683812260627747,
+      "NO": 0.03161877393722534
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005306",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005310",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.889262633398175e-06,
+      "NO": 0.9999921107373666
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005321",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9893474578857422,
+      "NO": 0.010652542114257812
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005324",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9966233968734741,
+      "NO": 0.003376603126525879
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005333",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.44475910105232e-17,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005340",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.1151310700892382e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005346",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005352",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005358",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005362",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005367",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.18010666966438293,
+      "NO": 0.8198933303356171
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005369",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005389",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.999962329864502,
+      "NO": 3.7670135498046875e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005407",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005410",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005437",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.999373733997345,
+      "NO": 0.0006262660026550293
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005464",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.7662936449050903,
+      "NO": 0.23370635509490967
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005469",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005475",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005506",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005517",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005518",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999995231628418,
+      "NO": 4.76837158203125e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005519",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.910429989734471e-16,
+      "NO": 0.9999999999999996
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005526",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.006903837900608778,
+      "NO": 0.9930961620993912
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005532",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.44370451155508e-26,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005547",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999898672103882,
+      "NO": 1.0132789611816406e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005554",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005567",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.053403329104185104,
+      "NO": 0.9465966708958149
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005581",
+    "value": {
+      "JUDGEMENTAL": 2.1987591985594636e-34,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005585",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999898672103882,
+      "NO": 1.0132789611816406e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005595",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9867772459983826,
+      "NO": 0.013222754001617432
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005597",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.331544762286143e-11,
+      "NO": 0.9999999999666845
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005602",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005615",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005622",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.06371499598026276,
+      "NO": 0.9362850040197372
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005627",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0010649627074599266,
+      "NO": 0.9989350372925401
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005630",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.09138210117816925,
+      "NO": 0.9086178988218307
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005645",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005648",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005651",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.466326177203882e-07,
+      "NO": 0.9999996533673823
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005654",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.8397339582443237,
+      "NO": 0.16026604175567627
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005673",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.5229980832032197e-08,
+      "NO": 0.9999999847700192
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005704",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005741",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999645948410034,
+      "NO": 3.540515899658203e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005758",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.1987591985594636e-34,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005760",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999942779541016,
+      "NO": 5.7220458984375e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005762",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9433475732803345,
+      "NO": 0.05665242671966553
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005771",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005782",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.0012448432389646769,
+      "NO": 0.9987551567610353
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005783",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9994296431541443,
+      "NO": 0.0005703568458557129
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005784",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005785",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999994039535522,
+      "NO": 5.960464477539062e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005788",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.999937891960144,
+      "NO": 6.210803985595703e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005789",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.00017952796770259738,
+      "NO": 0.9998204720322974
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005816",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005819",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.8426251396550485e-14,
+      "NO": 0.9999999999999816
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005824",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.3440409674103648e-08,
+      "NO": 0.9999999865595903
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005825",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.1151310700892382e-19,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005832",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005915",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.005911068990826607,
+      "NO": 0.9940889310091734
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005961",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005963",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999986886978149,
+      "NO": 1.3113021850585938e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "005978",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006004",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999997615814209,
+      "NO": 2.384185791015625e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006006",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006007",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.68120477976069e-15,
+      "NO": 0.9999999999999923
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006011",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006046",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9996646642684937,
+      "NO": 0.00033533573150634766
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006049",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.4112320818276068e-31,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006057",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.005730246659368277,
+      "NO": 0.9942697533406317
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006060",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006073",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006084",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006085",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.6081287264823914,
+      "NO": 0.39187127351760864
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006108",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006117",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9970190525054932,
+      "NO": 0.002980947494506836
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006137",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999994039535522,
+      "NO": 5.960464477539062e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006139",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006164",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 9.056076721858375e-11,
+      "NO": 0.9999999999094392
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006166",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.359610133382778e-28,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006186",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.2159490242756874e-08,
+      "NO": 0.9999999778405098
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006189",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 6.639677673630215e-36,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006221",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006233",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0060393273655932e-12,
+      "NO": 0.9999999999989939
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006235",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006240",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999822378158569,
+      "NO": 1.7762184143066406e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006241",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9985449314117432,
+      "NO": 0.001455068588256836
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006243",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.014503579586744308,
+      "NO": 0.9854964204132557
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006247",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006252",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999983310699463,
+      "NO": 1.6689300537109375e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006256",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.9756967944000553e-35,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006257",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 9.86286180222444e-15,
+      "NO": 0.9999999999999901
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006259",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006268",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.9673009167891e-05,
+      "NO": 0.9999203269908321
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006296",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.957912266254425,
+      "NO": 0.04208773374557495
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006335",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.2887492125155404e-06,
+      "NO": 0.9999967112507875
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006339",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.42221869181958e-06,
+      "NO": 0.9999945777813082
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006345",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.00628990214318037,
+      "NO": 0.9937100978568196
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006351",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.976846944504e-34,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006371",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006387",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.013222821988165379,
+      "NO": 0.9867771780118346
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006405",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006406",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.737905499041517e-07,
+      "NO": 0.9999995262094501
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006412",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999916553497314,
+      "NO": 8.344650268554688e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006414",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9811668992042542,
+      "NO": 0.01883310079574585
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006426",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.1628233098637253e-10,
+      "NO": 0.9999999998837177
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006448",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006459",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9648551344871521,
+      "NO": 0.0351448655128479
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006462",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.365977659830095e-14,
+      "NO": 0.9999999999999764
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006464",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.8577680587768555,
+      "NO": 0.14223194122314453
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006471",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9740425944328308,
+      "NO": 0.02595740556716919
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006489",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.187781923264561e-28,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006502",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 7.004352014501e-18,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006509",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.999987006187439,
+      "NO": 1.2993812561035156e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006510",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9916841983795166,
+      "NO": 0.008315801620483398
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006513",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.0988189445024794e-12,
+      "NO": 0.9999999999969011
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006514",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9989995360374451,
+      "NO": 0.0010004639625549316
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006519",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9979493021965027,
+      "NO": 0.0020506978034973145
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006545",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.6756855481730414e-14,
+      "NO": 0.9999999999999433
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006555",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006561",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006562",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9926542043685913,
+      "NO": 0.007345795631408691
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006571",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0815941024755471e-11,
+      "NO": 0.9999999999891841
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006604",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.1024335694619367e-07,
+      "NO": 0.999999789756643
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006609",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999985694885254,
+      "NO": 1.430511474609375e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006620",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.17895588278770447,
+      "NO": 0.8210441172122955
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006623",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.760343138812459e-06,
+      "NO": 0.9999982396568612
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006631",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.975449484028966e-31,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006648",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.015424552373588085,
+      "NO": 0.9845754476264119
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006688",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.775134371775124e-11,
+      "NO": 0.9999999999622486
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006699",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.1233784082141938e-06,
+      "NO": 0.9999978766215918
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006703",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.315785145398877e-08,
+      "NO": 0.9999999468421485
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006706",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.6038108185805577e-28,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006710",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.5990553032559944e-10,
+      "NO": 0.9999999995400944
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006712",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 5.8243198075800374e-24,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006718",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.3086217409725324e-18,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006721",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006724",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.2330084486360762e-23,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006732",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006734",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.3057005200372102e-37,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006738",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 8.315280410897685e-07,
+      "NO": 0.9999991684719589
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006747",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.4350379676339627e-14,
+      "NO": 0.9999999999999857
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006751",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999991655349731,
+      "NO": 8.344650268554688e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006757",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.6755463557238345e-20,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006763",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0956649767164683e-16,
+      "NO": 0.9999999999999999
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006767",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006772",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 4.0831634829566618e-22,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006775",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999706745147705,
+      "NO": 2.9325485229492188e-05
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006777",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.0593340560688357e-28,
+      "NO": 1.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006778",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999991655349731,
+      "NO": 8.344650268554688e-07
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006784",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 2.2159490242756874e-08,
+      "NO": 0.9999999778405098
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006787",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.016914913430809975,
+      "NO": 0.98308508656919
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006789",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 3.120191104244441e-05,
+      "NO": 0.9999687980889576
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006838",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.9999971389770508,
+      "NO": 2.86102294921875e-06
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006842",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006851",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.47450941801071167,
+      "NO": 0.5254905819892883
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006863",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.06465348601341248,
+      "NO": 0.9353465139865875
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006865",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.02843603305518627,
+      "NO": 0.9715639669448137
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006867",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.1478768101369496e-05,
+      "NO": 0.9999885212318986
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006881",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.937210738658905,
+      "NO": 0.06278926134109497
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006888",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006899",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.2018132209777832,
+      "NO": 0.7981867790222168
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006913",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.23231014609336853,
+      "NO": 0.7676898539066315
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006944",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 0.1127954050898552,
+      "NO": 0.8872045949101448
+    },
+    "test_case": "EXIST2021"
+  },
+  {
+    "id": "006946",
+    "value": {
+      "JUDGEMENTAL": 0.0,
+      "DIRECT": 1.0,
+      "NO": 0.0
+    },
+    "test_case": "EXIST2021"
+  }
+]
