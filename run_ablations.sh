@@ -22,7 +22,7 @@
 set -euo pipefail
 
 SEED=42
-EPOCHS=50
+EPOCHS=75
 BATCH_SIZE=32
 LR=1e-4
 N_BLOCKS=2

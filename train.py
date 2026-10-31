@@ -233,17 +233,17 @@ def train(args):
         filename="{epoch:02d}",
         save_top_k=1,
         save_last=False,
-        monitor="val/total_loss",
-        mode="min",
+        monitor="val/f1_2_1",   # I3: track task F1, not regularized loss
+        mode="max",
     )
     callbacks: list[Callback] = [
         model_checkpoint,
         LearningRateMonitor(logging_interval="step"),
         ModelSummary(max_depth=3),
         pl.callbacks.EarlyStopping(
-            monitor="val/total_loss",
-            patience=max(5, args.epochs // 5),
-            mode="min",
+            monitor="val/f1_2_1",   # I3: same metric for early stopping
+            patience=max(15, args.epochs // 4),  # I5: was max(5, epochs//5)
+            mode="max",
             verbose=True,
         ),
     ]

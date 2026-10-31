@@ -230,13 +230,16 @@ class CustomLoss(nn.Module):
         use_n3 = (self.eps_max > 0.0)
 
         if use_n3:
-            # N3: compute BCE with smoothed targets instead of standard KL
-            L1_raw = adaptive_label_smoothing(logits_2_1, t_2_1, self.eps_max)
+            # I4: when N1 also active, halve eps_max — both novelties use the same
+            # ambiguity signal and partially cancel; half eps keeps smoothing effect
+            # without fighting N1's focal up-weighting on the same samples.
+            effective_eps = self.eps_max * 0.5 if self.focal_alpha > 0.0 else self.eps_max
+            L1_raw = adaptive_label_smoothing(logits_2_1, t_2_1, effective_eps)
             # Task 2.2 — EXIST 2021 has no source-intention labels; use standard BCE
             L2_raw = F.binary_cross_entropy_with_logits(
                 logits_2_2, t_2_2, reduction="none"
             )
-            L3_raw = adaptive_label_smoothing(logits_2_3, t_2_3, self.eps_max).mean(
+            L3_raw = adaptive_label_smoothing(logits_2_3, t_2_3, effective_eps).mean(
                 dim=1, keepdim=True
             )
         else:
