@@ -37,3 +37,9 @@ venv/
 *.log
 nohup.out
 slides/
+
+# Internal notes / presentation files
+improvements.md
+slides.md
+script.md
+learn.md
