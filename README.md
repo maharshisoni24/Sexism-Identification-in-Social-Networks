@@ -18,7 +18,7 @@ This project builds upon the **AI Wizards EXIST-2026 baseline** for the EXIST se
 | **N2** | Hierarchical Consistency Regularization | `--lambda_cons 0.5` | Penalizes Task 2 confidence exceeding Task 1 confidence |
 | **N3** | Adaptive Label Smoothing | `--eps_max 0.25` | Per-sample dynamic label smoothing based on model uncertainty |
 
-All three are implemented in `loss.py` (~85 lines). No architectural changes.
+All three are implemented in `loss.py`. No architectural changes.
 
 ---
 
@@ -142,13 +142,6 @@ tensorboard --logdir tb_logs/
 | Batch Size | 32 |
 | Seed | 42 |
 | Embedding Dim | 768 (Gemini text-embedding-004) |
-
----
-
-## Important Rule: Do NOT Modify the Original Project
-
-The `EXIST-2026/` folder (parent directory) must remain completely untouched.
-This project operates entirely within `exist2021-novelty/`.
 
 ---
 
